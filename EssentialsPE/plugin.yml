@@ -3,8 +3,8 @@ name: EssentialsPE
 main: EssentialsPE\Loader
 version: 3.0.0
 api:
-- 3.0.0-ALPHA7
-author: LegendsOfMCPE Team
+- 3.0.0
+author: LegendsOfMCPE
 website: https://github.com/LegendOfMCPE/EssentialsPE
 
 # TODO: Permissions... Yay... Every command permission got changed.
